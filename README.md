@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mazen-elsherif
+- 👋 Hi, I’m @mazan-alshareef
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on a time management app
